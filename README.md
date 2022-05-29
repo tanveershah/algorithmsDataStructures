@@ -1,6 +1,6 @@
 # Welcome to Algorithms and Data Structures (ADS)
 
-This repo provides solutions to common ADS questions. The programing language used in this repo is C#. Please feel free to contribute to this repo! You may also contact me via my [LinkedIn Profile](https://www.linkedin.com/in/tanveerhshah/).
+This repo provides solutions to common ADS questions. The programing language used in this repo is C#. Please feel free to contribute to this repo! You may also connect to me via my [LinkedIn Profile](https://www.linkedin.com/in/tanveerhshah/).
 
 # Algorithms
 

@@ -1,7 +1,10 @@
 // Algorithms and Data Structures (AlgosDS)
-public class AlgosDS
+/// <summary>
+/// Find the greadtest common denominator (GCD)
+/// </summary>
+public class GCD
 {
-  public AlgosDS()
+  public GCD()
   {
 
   }
@@ -11,7 +14,7 @@ public class AlgosDS
   /// <param name="numOne">numOne is greater than numTwo</param>
   /// <param name="numTwo">smaller number</param>
   /// <returns>returns the GCD</returns>
-  public int FindGCF(int numOne, int numTwo)
+  public int FindGCD(int numOne, int numTwo)
   {
     while (numTwo != 0)
     {
