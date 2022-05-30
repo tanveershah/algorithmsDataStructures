@@ -1,12 +1,22 @@
 public class Node
 {
-  public object Data { get; set; }
-  public Node Next { get; set; }
-  public Node(object data, Node next)
-  {
-    this.Data = data;
-    this.Next = next;
-  }
   private object data;
   private Node next;
+
+  public Node(object data, Node next)
+  {
+    this.data = data;
+    this.next = next;
+  }
+
+  public object Data
+  {
+    get { return this.data; }
+    set { this.data = value; }
+  }
+  public Node Next
+  {
+    get { return this.next; }
+    set { this.next = value; }
+  }
 }
